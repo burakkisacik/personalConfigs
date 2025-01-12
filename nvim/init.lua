@@ -1,1 +1,1 @@
-require("personalNeoVimSetup")
+require("burakkisacik")
